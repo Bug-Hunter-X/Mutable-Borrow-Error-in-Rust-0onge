@@ -1,0 +1,1 @@
+This repository contains a simple Rust program that demonstrates a common error related to mutable borrows. The `bug.rs` file shows the code that produces the error, while `bugSolution.rs` presents a corrected version.
